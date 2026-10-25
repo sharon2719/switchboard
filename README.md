@@ -1,8 +1,6 @@
 # 🎛️ Switchboard
 
-One chat app for Claude and OpenAI, built with Streamlit. It started from the official
-[Streamlit chat tutorial](https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/build-conversational-apps)
-and adds the features you'd expect from a real chat app.
+One chat app for Claude and OpenAI, built with Streamlit.
 
 ## Features
 
