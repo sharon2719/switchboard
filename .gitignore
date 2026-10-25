@@ -1,0 +1,12 @@
+# Secrets: never commit API keys
+.streamlit/secrets.toml
+
+# Local chat history
+chats.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

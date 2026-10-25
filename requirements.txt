@@ -1,0 +1,4 @@
+streamlit>=1.43
+anthropic
+openai
+pypdf
